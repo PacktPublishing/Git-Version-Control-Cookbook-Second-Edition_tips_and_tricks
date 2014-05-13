@@ -28,3 +28,6 @@ World Map:
 Map (C) 1998 Matthew Thomas. Freely usable if this line is included. <-
 
 Australia:
+
+                    _,__        .:
+            Darwin <*  /        | \
