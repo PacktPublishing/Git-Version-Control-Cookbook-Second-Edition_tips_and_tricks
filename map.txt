@@ -25,3 +25,6 @@ World Map:
      ,-----"-..?----_/ )      __,-'"             "                  (
 -.._(                  `-----'                                       `-
 -----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----
+Map (C) 1998 Matthew Thomas. Freely usable if this line is included. <-
+
+Australia:
