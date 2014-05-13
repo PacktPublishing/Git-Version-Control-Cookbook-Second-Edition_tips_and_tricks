@@ -37,3 +37,6 @@ Australia:
            .'        \__/             *: Brisbane
         .-'          (oo)               ;
         |           //||\\              |
+        \                              /
+         |                            /
+   Perth  \*        __.--._          /
