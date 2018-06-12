@@ -1,0 +1,7 @@
+*.config
+*.bak
+
+# Java files
+*.class
+
+bin/
