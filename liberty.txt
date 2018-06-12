@@ -8,13 +8,6 @@
          WW) ,WWW)
          7W),WWWW'
          `WWWWWW'
-          9---W)
-      ,,--WPL=YXW===
-     (P),CY:,I/X'F9P
-     WUT===---/===9)
-     -HP+----Y(C=9W)
-      '9Y3'-'-OWPT-
-       'WWLUIECW
         (:7L7C7'
        ,P--=YWFL
        Y-=:9)UW:L
@@ -28,12 +21,12 @@
          W9-Y3+7)
          W'=9WI7)
         ,W  '-YY)
-         W    ::W                ,
-        ,T     :X)              ()
-        ()     '9W  'L.         ()         ,-
-        (C     =:9   '9L        ()        ,T
-        ()    ,,-7)    7WL      WW      ,F'
-        ()    , T9)     '9WL    --    ,YF
+         W    ::W
+        ,T     :X)
+        ()     '9W  'L.                    ,-
+        (C     =:9   '9L                  ,T
+        ()    ,,-7)    7WL              ,F'
+        ()    , T9)     '9WL          ,YF
         ()    '-/(W       -==+PE9P7===O)          -,
         'W, ,  T+/WX=L-. ,WP+()+3L3,),=WL  --==-T-
          7)    -,YW '-=9WPL+PT-- ':--L/=9WP=-'
@@ -58,22 +51,22 @@
           (WEXWF Y' ,)  ,/'-,,YT    ///  ,,'W.
          ,WWWWT,,' .Y:/.',,-,=',- ,YY(). +3,W)
          WFXF:,'P ,,)/  ,',P',,- ,FI,))) I3'W)
-         -HP,X'',/ '  ,/,/' ,/',,P3'I(:) W) W)       /=+=,
-          9WY).,/'  ,/'-'   ,-=9-/'Y'((',W) PW      /'  '-==L,
-          'WY,'    ,/,P   ,YP- C/',',)( (W'(WW.    /'       '7==L.
-           ()'    /:/' ,,WT'  3F',' /)W (W (K()   /'   .        '7X
-           ()   ,P,P',)T=:- ,WP'.' ,P,T (W (-9L ,Y)' ,X//, .    Y:P
-          ,F   ,F,',--,/:' ,+P' '  Y):) (E' YHWLWT)-''-9/',-' ,,,WF
-         ,P.,P,)-3-- ,-,' ,WF.    ,Y (' (L-WCTWEW30V-/',:'=/P+E7WF
-         W- Y,P/C)',Y',' ,WT      Y) :  (P-=Y:UW9CX)3-=- ,W:9/PXXW.
-        /T./:P/)' ,P',' YW-      ,P'',  9M).())WTHW3,C'  9C9='W3WW)
-       ,EPOP/YR. /F ,',/W)       /'  :  (W)'W979WO0=WC:,..9LPXWWP-
-       3H:WL-R' /' /' /WF       ,) ,,   (U'(HW=WWXO:--:,:'(W=WWF'
-      ,WLWWWI:,F' /-'3WF '      Y  ) ,  (),T(0)WO9YPL.' ',WP=='
-        --YWX-F  Y',WWT' :':   (' ()7)  (MT: WP)3C)-''  3C'
-            WF  /' YW--,  ,    Y  W (),YM+C' 9+I3UV:' .YP'
-           (T  3',H3-.. ,..  .,) ,) ()F-=T-. (0,9L,'  /P'
-           ,W Y' 33P  .  /    Y  Y) (Y' R,:  7)Y+-),,=W'
+         -HP,X'',/ '  ,/,/' ,/',,P3'I(:) W) W)
+          9WY).,/'  ,/'-'   ,-=9-/'Y'((',W) PW
+          'WY,'    ,/,P   ,YP- C/',',)( (W'(WW.
+           ()'    /:/' ,,WT'  3F',' /)W (W (K()
+           ()   ,P,P',)T=:- ,WP'.' ,P,T (W (-9L ,Y)
+          ,F   ,F,',--,/:' ,+P' '  Y):) (E' YHWLWT)
+         ,P.,P,)-3-- ,-,' ,WF.    ,Y (' (L-WCTWEW30V
+         W- Y,P/C)',Y',' ,WT      Y) :  (P-=Y:UW9CX)
+        /T./:P/)' ,P',' YW-      ,P'',  9M).())WTHW3
+       ,EPOP/YR. /F ,',/W)       /'  :  (W)'W979WO0=
+       3H:WL-R' /' /' /WF       ,) ,,   (U'(HW=WWXO:
+      ,WLWWWI:,F' /-'3WF '      Y  ) ,  (),T(0)WO9YP
+        --YWX-F  Y',WWT' :':   (' ()7)  (MT: WP)3C)-
+            WF  /' YW--,  ,    Y  W (),YM+C' 9+I3UV:
+           (T  3',H3-.. ,..  .,) ,) ()F-=T-. (0,9L,'
+           ,W Y' 33P  .  /    Y  Y) (Y' R,:  7)Y+-),
            /',F.,W)     ,,.' ,) ,W) +)  3),  (WT9XW=3P'
           /F:T.:WF.  '..:'   :' (W. 7) '=),  'WT7WWP '
          ,P,F''WF  . , :-': ,)  YC../) 'HY.   WP0WC'
@@ -89,11 +82,11 @@
           (U),-:-''.'=      (:,F' (W)   ,Y.     3=:L
            (),:::',)/'    ,,F9W'  YW)   /L.    .7=9W,
            (LUL-L.T-'.' ,WXM(W)   3W)   'U.     ,)-W
-           3X=((:,' ' ,WMWF-(+'   WW'   '=,'    ,ICW
-          ,T)=)K-=':-WPIWP':,:   ,WW    +/, ..' :+,9)
-          Y):LX:.:=EHR,PU:'/''   (WW    I:=, .,-9CO)
-          ()-+,,HPT+C:W9= ,)'    /WT'   T.: --PCXCKF'
-          7LIHTP+OY3LW'3:,L..    WW)    ,,(W('MX'WT'
+           3X=((:,' ' ,WMWF-(+'     '   '=,'    ,ICW
+          ,T)=)K-=':-WPIWP':,:   ,      +/, ..' :+,9)
+          Y):LX:.:=EHR,PU:'/''          I:=, .,-9CO)
+          ()-+,,HPT+C:W9= ,)'           T.: --PCXCKF'
+          7LIHTP+OY3LW'3:,L..           ,,(W('MX'WT'
            7T,I-:XF:WF(: ,)    ':WWT  ,=PT:T(AY) W
            (PWW)W3=/P,P  ,     ,'WW),YP,WH,)Y)TWX9)
            3)OWRE)-YUY'... '  ..(WWXWW)9W+C)WUP9P3'
@@ -112,8 +105,8 @@
            7OLY3',H9),YW'F ),W)CT)/Y((-))'W,U)()
            7F=T-/T(=)A3C,)3)(WA()=)TY(CY'YWY(::)
            W9C=()L/3,9'/('Y,YWU(XE/))()E.YT)3:)L
-           W=P:F:(,)),,'F'/:WP+3OY':)(R+ /T,T')W
-        -=WRHX9C9-W'=,),)'A,A)XW779EXWK+.()3W),(,
+
+
       ,W=-'L,,XX)/)+'I 3)39I(UHE-+LX39TWH/LUP)(H)
      ,P:. ,-90/,(F0'/:,W //'(YOC':--YY3/IRW'9LT')
      3W=:Y:-F.)Y:/''Y /O.=:,WL9) ,. ,.79=9PL'9(-W,
